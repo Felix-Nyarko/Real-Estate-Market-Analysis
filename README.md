@@ -18,3 +18,14 @@ The locations in terms of regions with the highest rental yields are as follows;
 
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
+
+
+# 2. What is the price distribution by locality - and where are the most affordable vs. luxury hotspots?
+The price distribution by locality shows that there are more luxury hotspots are in these five (5) localities and they are all located in Greater Accra;
+- East Legon
+- Spintex
+- Airport Residential
+- Accra Metropolitan
+- Cantonments
+
+*PICTORIAL REPRESENTATION OF THE TABLE*
