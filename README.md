@@ -1,8 +1,8 @@
 # Real-Estate-Market-Analysis
 To perform EDA analysis on data collected about Ghana's rental space
 
-## MARKET INSIGHTS
-# 1. Which locations (region/localities) have the highest rental yields (price per square meter)?
+# MARKET INSIGHTS
+## 1. Which locations (region/localities) have the highest rental yields (price per square meter)?
 The total average price per square meter is **14.38**. 
 The locations in terms of regions with the highest rental yields are as follows;
 | Regions       | Average price per SQM (GHS) |
@@ -20,7 +20,7 @@ The locations in terms of regions with the highest rental yields are as follows;
 *PICTORIAL REPRESENTATION OF THE TABLE*
 
 
-# 2. What is the price distribution by locality - and where are the most affordable vs. luxury hotspots?
+## 2. What is the price distribution by locality - and where are the most affordable vs. luxury hotspots?
 The price distribution by locality shows that there are more luxury hotspots are in these five (5) localities and they are all located in Greater Accra;
 - East Legon
 - Spintex
@@ -29,3 +29,9 @@ The price distribution by locality shows that there are more luxury hotspots are
 - Cantonments
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
+
+## 3. Are furnished properties rented at a significant premium compared to unfurnished?
+Comparing the average price of furnished properties to unfurnished properties, you will discover that *furnished apartment attract 58.1%* of the market as compared to an *unfurnished apartment of 17.88%*
+
+*PICTORIAL REPRESENTATION OF THE TABLE*
+
