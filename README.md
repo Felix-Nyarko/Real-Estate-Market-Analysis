@@ -39,3 +39,15 @@ Comparing the average price of furnished properties to unfurnished properties, y
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
 
+
+## 4. Which property type (flats, detached, etc.) dominates each region in terms of availability?
+From the visual, it is clear that the property type that dominates the market is the flats followed by detached units.
+| Region       | Flat | Detached Units | 
+|----------------|---------------------|------------------|
+| Greater Accra          | 10,619             | 4,638              |
+| Ashanti Region         | 500                | 159              | 
+| Central        | 144                | 45              | 
+| Northern        | 147                | 47              | 
+
+*PICTORIAL REPRESENTATION OF THE TABLE*
+
