@@ -77,3 +77,11 @@ Created a measure to determine the *Average Price Per Square Meter* and *Average
 From the visual, it was discovered that **Volta Region** followed by **Nortern Region** have *larger floor area but offered relatively low price*
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
+
+## 7. Properties with parking space
+On a broader scale, parking spaces didn't have direct impact on prices. It is only few areas that had direct relationsip with prices and they are predominantly located in 
+Accra. Those areas are Cantonments, Burma Camp, etc.
+
+*PICTORIAL REPRESENTATION OF THE TABLE*
+
+
