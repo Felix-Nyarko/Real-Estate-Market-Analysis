@@ -51,3 +51,24 @@ From the visual, it is clear that the property type that dominates the market is
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
 
+**PRICING AND INVESTMENT STRATEGY**
+## 5. Identify the top 5 high-demand localities (lots of listings, high prices)
+Created a measure to count the total listings and for average price
+``
+TotalListings = COUNTTROWS(HouseRentals)
+``
+``
+AveragePrice = AVERAGE(HouseRentals(Price))
+``
+Using a scattered chart, Total Listings for X-axis, and Average Price for Y-axis.
+
+*PICTORIAL REPRESENTATION OF THE TABLE*
+The top 5 high-demand localities include;
+| Locality       | Number of Listings| Average Price | 
+|----------------|---------------------|------------------|
+| East Legon          | 2,565            | $14,000 | 
+| Spintex      | 1,800                | $6,698 |
+| Teshie        | 1,334                | $5,420
+| Adenta        | 1,253                | $3,061
+| Accra Metropolitan        | 1,035    | $9,181
+
