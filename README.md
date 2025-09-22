@@ -72,3 +72,8 @@ The top 5 high-demand localities include;
 | Adenta        | 1,253                | $3,061
 | Accra Metropolitan        | 1,035    | $9,181
 
+## 6. Localities that are undervalued (large floor area but relatively low price)
+Created a measure to determine the *Average Price Per Square Meter* and *Average Floor Area*
+From the visual, it was discovered that **Volta Region** followed by **Nortern Region** have *larger floor area but offered relatively low price*
+
+*PICTORIAL REPRESENTATION OF THE TABLE*
