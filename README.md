@@ -51,7 +51,8 @@ From the visual, it is clear that the property type that dominates the market is
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
 
-**PRICING AND INVESTMENT STRATEGY**
+
+# PRICING AND INVESTMENT STRATEGY
 ## 5. Identify the top 5 high-demand localities (lots of listings, high prices)
 Created a measure to count the total listings and for average price
 ``
@@ -84,4 +85,8 @@ Accra. Those areas are Cantonments, Burma Camp, etc.
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
 
+## 8. Maximize return per square meter
+Using the average square meters, we realized that for an investor to yield maximum returns in terms of per square meter, it is advisable to target Volta Region as they offer a huge square area at an affordable price
 
+# TENANTS AND OWNER INSIGHTS
+## 5. Identify the top 5 high-demand localities (lots of listings, high prices)
