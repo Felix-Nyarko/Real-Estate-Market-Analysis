@@ -28,7 +28,7 @@ The price distribution by locality shows that there are more luxury hotspots are
 - Accra Metropolitan
 - Cantonments
 
-![Distribution_By_Locality]()
+![Distribution_By_Locality](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%202.png)
 
 
 
