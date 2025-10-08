@@ -35,7 +35,7 @@ The price distribution by locality shows that there are more luxury hotspots are
 ## 3. Are furnished properties rented at a significant premium compared to unfurnished?
 Comparing the average price of furnished properties to unfurnished properties, you will discover that *furnished apartment attract 58.1%* of the market as compared to an *unfurnished apartment of 17.88%*
 
-*PICTORIAL REPRESENTATION OF THE TABLE*
+![Furnished_Properties_Vrs_Unfurnished_Properties](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%203.png)
 
 
 ## 4. Which property type (flats, detached, etc.) dominates each region in terms of availability?
