@@ -61,7 +61,8 @@ AveragePrice = AVERAGE(HouseRentals(Price))
 ``
 Using a scattered chart, Total Listings for X-axis, and Average Price for Y-axis.
 
-*PICTORIAL REPRESENTATION OF THE TABLE*
+![High_Demand_Localities](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%205.png)
+
 The top 5 high-demand localities include;
 | Locality       | Number of Listings| Average Price | 
 |----------------|---------------------|------------------|
@@ -71,20 +72,20 @@ The top 5 high-demand localities include;
 | Adenta        | 1,253                | $3,061
 | Accra Metropolitan        | 1,035    | $9,181
 
+
 ## 6. Localities that are undervalued (large floor area but relatively low price)
 Created a measure to determine the *Average Price Per Square Meter* and *Average Floor Area*
 From the visual, it was discovered that **Volta Region** followed by **Nortern Region** have *larger floor area but offered relatively low price*
 
-*PICTORIAL REPRESENTATION OF THE TABLE*
+![Large_Floor_Area_Low_Price](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%206.png)
+
 
 ## 7. Properties with parking space
 On a broader scale, parking spaces didn't have direct impact on prices. It is only few areas that had direct relationsip with prices and they are predominantly located in 
 Accra. Those areas are Cantonments, Burma Camp, etc.
 
-*PICTORIAL REPRESENTATION OF THE TABLE*
+![LProperties_with_Parking_Space](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%207.png)
+
 
 ## 8. Maximize return per square meter
 Using the average square meters, we realized that for an investor to yield maximum returns in terms of per square meter, it is advisable to target Volta Region as they offer a huge square area at an affordable price
-
-# TENANTS AND OWNER INSIGHTS
-## 5. Identify the top 5 high-demand localities (lots of listings, high prices)
