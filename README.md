@@ -17,10 +17,7 @@ The locations in terms of regions with the highest rental yields are as follows;
 | Central       | 9.02                |
 | Brong Ahafo       | 4.70                |
 
- ![Highest Rental Yield](Question 1.png)
-
-*PICTORIAL REPRESENTATION OF THE TABLE*
-
+ ![Highest Rental Yield](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%201.png)
 
 
 ## 2. What is the price distribution by locality - and where are the most affordable vs. luxury hotspots?
@@ -31,7 +28,7 @@ The price distribution by locality shows that there are more luxury hotspots are
 - Accra Metropolitan
 - Cantonments
 
-*PICTORIAL REPRESENTATION OF THE TABLE*
+![Distribution_By_Locality]()
 
 
 
