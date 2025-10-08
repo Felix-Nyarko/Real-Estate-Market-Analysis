@@ -47,7 +47,7 @@ From the visual, it is clear that the property type that dominates the market is
 | Central        | 144                | 45              | 
 | Northern        | 147                | 47              | 
 
-*PICTORIAL REPRESENTATION OF THE TABLE*
+![Dominant_Property_Type](
 
 
 # PRICING AND INVESTMENT STRATEGY
