@@ -17,7 +17,7 @@ The locations in terms of regions with the highest rental yields are as follows;
 | Central       | 9.02                |
 | Brong Ahafo       | 4.70                |
 
- ![Highest Rental Yield]()
+ ![Highest Rental Yield](Question 1.png)
 
 *PICTORIAL REPRESENTATION OF THE TABLE*
 
