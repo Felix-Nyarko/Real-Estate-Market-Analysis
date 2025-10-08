@@ -1,3 +1,31 @@
+# Introduction
+This project explores housing rental trends using a real estate dataset to uncover valuable market insights for investors, property managers, and renters.
+
+
+# Background
+Driven by a quest to already understand the existing insights of real estate, this project was born from a dataset that contains rental property 
+listings scraped from Tonaton.com, one of Ghana's leading online platforms. It provides valuable information on rental prices across various regions 
+in Ghana, along with other property details.
+## The questions I seek to answer;
+1. Which locations (region/localities) have the highest rental yields (price per square meter)?
+2. What is the price distribution by locality - and where are the most affordable vs. luxury hotspots?
+3. Are furnished properties rented at a significant premium compared to unfurnished?
+4. Which property type (flats, detached, etc.) dominates each region in terms of availability?
+5. Identify the top 5 high-demand localities (lots of listings, high prices)
+6. Localities that are undervalued (large floor area but relatively low price)
+7. Properties with parking space
+
+
+# Tools I Used
+For my deep dive into the real estate market, I harnessed the power of several key tools;
+- Power BI: The backbone of my analysis allowing me to create visualizations
+- SQL : Used the tool for some basic EDA queries
+- Github : Essential for version control and portfolio showcase
+
+# The Analysis
+# What I learned
+# Conclusions
+
 # Real-Estate-Market-Analysis
 To perform EDA analysis on data collected about Ghana's rental space
 
