@@ -23,11 +23,6 @@ For my deep dive into the real estate market, I harnessed the power of several k
 - Github : Essential for version control and portfolio showcase
 
 # The Analysis
-# What I learned
-# Conclusions
-
-# Real-Estate-Market-Analysis
-To perform EDA analysis on data collected about Ghana's rental space
 
 # MARKET INSIGHTS
 
@@ -111,6 +106,9 @@ From the visual, it was discovered that **Volta Region** followed by **Nortern R
 ## 7. Properties with parking space
 On a broader scale, parking spaces didn't have direct impact on prices. It is only few areas that had direct relationsip with prices and they are predominantly located in 
 Accra. Those areas are Cantonments, Burma Camp, etc.
+
+# What I learned
+# Conclusions
 
 ![LProperties_with_Parking_Space](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%207.png)
 
