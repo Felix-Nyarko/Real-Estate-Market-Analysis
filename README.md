@@ -42,6 +42,8 @@ The locations in terms of regions with the highest rental yields are as follows;
 
  ![Highest Rental Yield](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%201.png)
 
+*A pie chart showing the average sqaure meters with regards to the region*
+
 
 ## 2. What is the price distribution by locality - and where are the most affordable vs. luxury hotspots?
 The price distribution by locality shows that there are more luxury hotspots are in these five (5) localities and they are all located in Greater Accra;
@@ -53,6 +55,7 @@ The price distribution by locality shows that there are more luxury hotspots are
 
 ![Distribution_By_Locality](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%202.png)
 
+*A Bar Chart showing the visual representation of the areas with the most distribution of afforadable and luxury accommodation units*
 
 
 ## 3. Are furnished properties rented at a significant premium compared to unfurnished?
@@ -60,6 +63,7 @@ Comparing the average price of furnished properties to unfurnished properties, y
 
 ![Furnished_Properties_Vrs_Unfurnished_Properties](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%203.png)
 
+*A pie chart showing the impact of furnished and unfurnished on rentals*
 
 ## 4. Which property type (flats, detached, etc.) dominates each region in terms of availability?
 From the visual, it is clear that the property type that dominates the market is the flats followed by detached units.
@@ -72,6 +76,7 @@ From the visual, it is clear that the property type that dominates the market is
 
 ![Dominant_Property_Type](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%204.png)
 
+*A Bar Chart showing the distribution of flats, detachedhomes, etc with regards to the regions*
 
 # PRICING AND INVESTMENT STRATEGY
 ## 5. Identify the top 5 high-demand localities (lots of listings, high prices)
