@@ -107,11 +107,9 @@ From the visual, it was discovered that **Volta Region** followed by **Nortern R
 On a broader scale, parking spaces didn't have direct impact on prices. It is only few areas that had direct relationsip with prices and they are predominantly located in 
 Accra. Those areas are Cantonments, Burma Camp, etc.
 
-# What I learned
-# Conclusions
 
 ![LProperties_with_Parking_Space](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%207.png)
 
 
-## 8. Maximize return per square meter
-Using the average square meters, we realized that for an investor to yield maximum returns in terms of per square meter, it is advisable to target Volta Region as they offer a huge square area at an affordable price
+# What I learned
+# Conclusions
