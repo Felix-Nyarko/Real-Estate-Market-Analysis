@@ -66,7 +66,7 @@ Comparing the average price of furnished properties to unfurnished properties, y
 *A pie chart showing the impact of furnished and unfurnished on rentals*
 
 ## 4. Which property type (flats, detached, etc.) dominates each region in terms of availability?
-From the visual, it is clear that the property type that dominates the market is the flats followed by detached units.
+From the table below, it is clear that the property type that dominates the market is the flats followed by detached units.
 | Region       | Flat | Detached Units | 
 |----------------|---------------------|------------------|
 | Greater Accra          | 10,619             | 4,638              |
@@ -80,7 +80,7 @@ From the visual, it is clear that the property type that dominates the market is
 
 # PRICING AND INVESTMENT STRATEGY
 ## 5. Identify the top 5 high-demand localities (lots of listings, high prices)
-Created a measure to count the total listings and for average price
+To identify localities that have high demand, I first created measures to count the total listings and for average price respectfully.
 ``
 TotalListings = COUNTTROWS(HouseRentals)
 ``
@@ -102,7 +102,7 @@ The top 5 high-demand localities include;
 
 
 ## 6. Localities that are undervalued (large floor area but relatively low price)
-Created a measure to determine the *Average Price Per Square Meter* and *Average Floor Area*
+To identify areas that are undervalued, I created a measure to determine the *Average Price Per Square Meter* and *Average Floor Area*
 From the visual, it was discovered that **Volta Region** followed by **Nortern Region** have *larger floor area but offered relatively low price*
 
 ![Large_Floor_Area_Low_Price](https://github.com/Felix-Nyarko/Real-Estate-Market-Analysis/blob/main/Question%206.png)
@@ -117,4 +117,19 @@ Accra. Those areas are Cantonments, Burma Camp, etc.
 
 
 # What I learned
+- Analytical Thinking in Real Estate: Learned how to interpret property data to identify market trends — such as rental yields, affordable housing zones, and luxury market clusters — and translate them into actionable business insights.
+
+- Power BI Visualization & Storytelling: Enhanced my ability to design interactive dashboards that clearly communicate key findings, making complex housing data easy to understand for investors and decision-makers.
+- Analytical Wizadry: leveled up my real-world puzzle-solving skills, turning questions into actionable, insigtful SQL queries.
+
 # Conclusions
+# Insights
+1. **The locations (region) that have the highest rental yields** are Volta, Northern and Eastern because they offer the highest average per square meter.
+2. **The price distribution by locality - in terms of the most luxury hotspots** are areas all within Greater Accra. In terms of the luxury, we are looking at Spintex,Cantonments, Airport Residential, East Legon and Accra Metropolitan (for the affordable ones)
+3. **Furnished properties are rented at a significant premium compared to unfurnished**. This is because when you compare the average price of furnished properties to unfurnished properties, you will discover that furnished apartment attract 58.1% of the market as compared to an unfurnished apartment of 17.88%
+4. **The property type (flats, detached, etc.) that dominates each region** in terms of availability are flats as they record high records in all the regions
+5. **The top 5 high-demand localities that have lots of listings and attract high prices** are as follows; - East Legon, Spintex, Teshie, Adenta and Accra Metropolitan.
+6. **Localities that are undervalued (large floor area but relatively low price)** are localities in the Volta Region
+7. **Properties with parking spaces didn't have direct impact on prices**. It is only few areas that had direct relationsip with prices and they are predominantly located in Accra. Those areas are Cantonments, Burma Camp, etc.
+
+# Closing Thoughts
