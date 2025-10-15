@@ -133,3 +133,4 @@ Accra. Those areas are Cantonments, Burma Camp, etc.
 7. **Properties with parking spaces didn't have direct impact on prices**. It is only few areas that had direct relationsip with prices and they are predominantly located in Accra. Those areas are Cantonments, Burma Camp, etc.
 
 # Closing Thoughts
+This project allowed me to combine data cleaning, transformation, and visualization to extract meaningful insights from raw real estate data. Power BI helped me turn those findings into clear, interactive dashboards. Overall, this experience deepened my understanding of data-driven decision-making, strengthened my analytical skills, and reinforced the importance of storytelling through data.
